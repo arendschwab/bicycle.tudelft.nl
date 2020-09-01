@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>TUDelft Bicycle Website</title><link href="https://arendschwab.github.io/bicycle.tudelft.nl/" rel="alternate"></link><link href="https://arendschwab.github.io/bicycle.tudelft.nl/feeds/all.atom.xml" rel="self"></link><id>https://arendschwab.github.io/bicycle.tudelft.nl/</id><updated>2020-09-01T14:44:00+02:00</updated><entry><title>My first blog Post</title><link href="https://arendschwab.github.io/bicycle.tudelft.nl/my-first-blog-post.html" rel="alternate"></link><published>2020-09-01T14:44:00+02:00</published><updated>2020-09-01T14:44:00+02:00</updated><author><name>Arend L. Schwab</name></author><id>tag:arendschwab.github.io,2020-09-01:/bicycle.tudelft.nl/my-first-blog-post.html</id><content type="html">&lt;!-- thi is comment --&gt;
+&lt;div class="section" id="my-first"&gt;
+&lt;h2&gt;My first&lt;/h2&gt;
+&lt;p&gt;This is some&lt;/p&gt;
+&lt;img alt="" src="https://i.ytimg.com/vi/rBOQp2uY_lk/hqdefault.jpg" style="width: 400px;" /&gt;
+&lt;p&gt;This is a list of nice things:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;first&lt;/li&gt;
+&lt;li&gt;second&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+</content><category term="bicycle"></category></entry></feed>
