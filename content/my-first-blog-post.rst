@@ -14,7 +14,7 @@ My first
 
 This is some
 
-..image::https://i.ytimg.com/vi/rBOQp2uY_lk/hqdefault.jpg
+.. image:: https://i.ytimg.com/vi/rBOQp2uY_lk/hqdefault.jpg
 
 This is a list of nice things:
 
